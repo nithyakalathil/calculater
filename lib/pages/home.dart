@@ -1,7 +1,7 @@
-import 'package:calculator_app/pages/add.dart';
-import 'package:calculator_app/pages/divide.dart';
-import 'package:calculator_app/pages/multiply.dart';
-import 'package:calculator_app/pages/subtract.dart';
+import 'package:fluttercalculator/pages/add.dart';
+import 'package:fluttercalculator/pages/divide.dart';
+import 'package:fluttercalculator/pages/multiply.dart';
+import 'package:fluttercalculator/pages/subtract.dart';
 import 'package:flutter/material.dart';
 
 class Homepage extends StatelessWidget {
