@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class DividePage extends StatelessWidget {
-  const DividePage({super.key});
+class SubtractPage extends StatelessWidget {
+  const SubtractPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -44,7 +44,7 @@ class DividePage extends StatelessWidget {
                 child: ElevatedButton(
                   onPressed: () {},
                   child: Text(
-                    "DIVIDE",
+                    "SUBTRACT",
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 20,
