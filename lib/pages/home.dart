@@ -1,5 +1,5 @@
 import 'package:fluttercalculator/pages/add.dart';
-import 'package:fluttercalculator/pages/divide.dart';
+import 'package:fluttercalculator/pages/devide.dart';
 import 'package:fluttercalculator/pages/multiply.dart';
 import 'package:fluttercalculator/pages/subtract.dart';
 import 'package:flutter/material.dart';
