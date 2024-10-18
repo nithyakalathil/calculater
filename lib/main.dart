@@ -23,7 +23,7 @@ class Main extends StatelessWidget {
           ),
           backgroundColor: Colors.deepPurpleAccent,
         ),
-        body: ,
+        body: Homepage(),
       ),
     );
   }
